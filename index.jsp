@@ -1,0 +1,7 @@
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+BIENVENIDOS..... AL SISTEMA hola
+</BODY>
+</HTML>
